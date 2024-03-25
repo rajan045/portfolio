@@ -1,0 +1,1 @@
+export const greetType = ['Hello', 'नमस्ते', 'Hola', 'Bonjour', 'السلام عليكم']
